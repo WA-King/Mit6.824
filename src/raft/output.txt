@@ -1,0 +1,2 @@
+test 170
+FAIL	6.824/raft [build failed]
